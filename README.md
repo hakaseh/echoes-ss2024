@@ -1,1 +1,1 @@
-# echoes-ss2024
+# ECHOES Summer School 2024
